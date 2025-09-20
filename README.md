@@ -1,7 +1,7 @@
 # aviary
 Modern Twitter/X tweak for iOS/iPadOS/macOS, focused on stability
 
-This tweak is made to be modular and comes in 3 flavors, which can be specified at compile:
+## This tweak comes in 3 flavors :
 
 `aviary-base` - This is the base tweak, for use with the stock Twitter/X client.
 
