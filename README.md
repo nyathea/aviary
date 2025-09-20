@@ -1,5 +1,5 @@
 # aviary
-Modern Twitter/X tweak for iOS/iPadOS/macOS
+Modern Twitter tweak for iOS/iPadOS/macOS
 
 ## This tweak comes in 3 flavors :
 
